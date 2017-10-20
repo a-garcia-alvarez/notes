@@ -1,4 +1,4 @@
-#Comandos
+# Comandos
 
 ```bash
 ls      # list files.
@@ -11,7 +11,7 @@ rm -rf  # remove --recursive --force
 cat     # concatenate
 ```
 
-###cat
+### cat
 - fd 0 stdin
 - fd 1 stdout
 - fd 2 stderr

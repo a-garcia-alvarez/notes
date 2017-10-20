@@ -1,9 +1,9 @@
-#Atajos en Ubuntu Gnome GNU/Linux
+# Atajos en Ubuntu Gnome GNU/Linux
 
 En notacion de Backus-Naur
 
 
-##Gnome 3 shell
+## Gnome 3 shell
 
 ![icono GDM](img/GnomeLogoVertical.svg =100x)
 
@@ -24,7 +24,7 @@ En notacion de Backus-Naur
 - S-↓/→/←/↑ : seleccionar one char at a time
 
 
-##Terminal
+## Terminal
 * C-A-t : Sacar terminal.
 * C-S-t : Nueva pestaña.
 * A-[numer] : Le da el foco a la pestaña _number_.
@@ -43,7 +43,7 @@ En notacion de Backus-Naur
 1. dfg
 
 
-####Some MD sh*t
+#### Some MD sh*t
 
 
 ```
