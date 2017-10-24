@@ -8,6 +8,13 @@
 * &lt;&lt; : Here Document.
 * &lt;&lt;&lt; : Here String
 
+
+* `2>` :Redirigir stderr
+* `|`: pipe, tubería (usa un fichero anónimo)
+* `&>2` : redirige 1 a 2
+* `&2>` : redirige 2 a 1
+
+
 ## Variables
 
 * `#` : Cantidad de parametros

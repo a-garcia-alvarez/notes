@@ -78,6 +78,7 @@ combinaciones
 grep: filtra
 ed: editor sin ventana
 sed: lo mismo
+vi: (mejorado)
 
 
 ### para buscar
