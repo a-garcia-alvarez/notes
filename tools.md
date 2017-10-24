@@ -34,6 +34,12 @@ cat     # concatenate
 &lt;&lt;&lt; : Here String
 
 
+### man
+ (1) terminal tool
+ (2) kernel
+ (3) desarrollo de aplicaciones
+
+
 ## comandos que unen
 ```
 cat
@@ -60,6 +66,36 @@ combinaciones
 `-d "b"` delimitador
 
 ### split
+
+## Otras
+- uniq:
+- tr:
+- sort:
+- wget:
+- basename:
+
+### comandos que filtran
+grep: filtra
+ed: editor sin ventana
+sed: lo mismo
+
+
+### para buscar
+-
+- grep:
+- find:
+- wich:
+
+### tr
+translate
+```
+tr "Ai" "a!"      # Change every 'A' to 'a', and 'i' to '!''
+tr -s "Aa" "Ie"   # Change 'Aa' to 'Ie'
+tr "A-Z" "a-z"    # Cambiar todo a minuscula
+tr " \t\n" "\n"   # change every nl, tab or space to nl
+
+```
+
 
 
 ### git
