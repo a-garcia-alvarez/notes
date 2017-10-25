@@ -47,6 +47,8 @@
 * `--` : A veces el fichero que representa a la terminal
 * `"` : escapan la mayoría de Metacaracteres
 * `'` : escapan todos los meta
+* `` ` `` : ejecuta comando y se sustituye por la salida
+* `$()` : lo mismo
 * `#` : comment
 * `$` : varialbe
 
@@ -61,6 +63,8 @@
 - `&&` AND
 - `||` OR
 - `!` NOT
+
+
 
 
 ## #C\# #
