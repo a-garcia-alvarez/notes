@@ -74,6 +74,25 @@ combinaciones
 - wget:
 - basename:
 
+
+- xargs
+- wich
+- rsyn
+- mysqldump
+- date
+- history
+- fg
+- bg
+- jobs
+- ps aux
+- kill
+- kill -9
+- tar
+- unzip
+- gzip
+- pizg
+
+
 ### comandos que filtran
 grep: filtra
 ed: editor sin ventana
@@ -86,6 +105,8 @@ vi: (mejorado)
 - grep:
 - find:
 - wich:
+
+
 
 ### tr
 translate
